@@ -1,0 +1,5 @@
+--- Library Management System Test ---
+The Great Gatsby has been borrowed.
+Sorry, "The Great Gatsby" is already borrowed.
+The Great Gatsby has been returned.
+Bob borrowed "The Great Gatsby".
